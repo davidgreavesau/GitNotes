@@ -30,12 +30,15 @@ git commit
 //-- :wq
 git commit -m 'description for the commit'
 
+# Cloning a remote repository onto your machine
+git clone https://github.com/davidgreavesau/GitNotes.git
+
 # Push to the remote repository
 git push
 
 # Pull the latest changes from the remote repository
 git pull
 
-# Cloning a remote repository onto your machine
-git clone https://github.com/davidgreavesau/GitNotes.git
+# Branches
+git branch <name of branch>
 
