@@ -1,5 +1,5 @@
 # Check the current version
-git --version
+git --version\
 
 # Configuration
 git config --global user.name 'John Smith'
