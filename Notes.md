@@ -8,6 +8,13 @@ git config --global user.email 'john.smith@email.com'
 # Initialize Local Git Repo
 git init
 
+# Creating a file
+git touch file
+
+# FIles to be ignored
+Add files or directories to .gitignore that you wish to ignore.
+e.g. File Name, /directory name
+
 # Adding files
 git add file
 git add *.txt
